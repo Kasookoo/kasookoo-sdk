@@ -1,4 +1,4 @@
-# 📱  Kasookoo SDK SDK
+# 📱  Kasookoo SDK
 
 A powerful Android SDK for real-time voice communication between customers and drivers, built with LiveKit WebRTC technology and Firebase Cloud Messaging.
 
